@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 静态页面
+ [点击这里](https://alcohol-js.github.io/list/dist/).
